@@ -1,7 +1,7 @@
 Here is a **complete professional `README.md`** you can directly paste into your GitHub repository.
 I also included **image URLs format**, so your outputs will appear properly.
 
-Replace `YOUR-USERNAME` and `YOUR-REPO-NAME` with your actual GitHub details.
+Replace `AnuragTiwari1508` and `Leaning_ClangChain` with your actual GitHub details.
 
 ---
 
@@ -59,13 +59,13 @@ This repository contains experiments with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/AnuragTiwari1508/learning_LangChain.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd YOUR-REPO-NAME
+cd Learning_LangChain
 ```
 
 Install dependencies:
