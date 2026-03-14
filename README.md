@@ -1,10 +1,3 @@
-Here is a **complete professional `README.md`** you can directly paste into your GitHub repository.
-I also included **image URLs format**, so your outputs will appear properly.
-
-Replace `AnuragTiwari1508` and `Leaning_ClangChain` with your actual GitHub details.
-
----
-
 # 🚀 AI Audio-to-Animation & LangChain Project
 
 An AI-powered project that integrates **Machine Learning, LangChain, and Audio Processing** to generate intelligent outputs and visual representations.
