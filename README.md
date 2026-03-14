@@ -96,11 +96,11 @@ jupyter notebook
 
 ## Output Result 1
 
-![Output1](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/output1.png)
+![Output1](https://chatgpt.com/backend-api/estuary/content?id=file_00000000d96871fa97e9047677bd2fd4&ts=492641&p=fs&cid=1&sig=0fd22a5f3968da394802097c1223c8bc1cdf217a3eb1d8ca995ada00cf6cea26&v=0)
 
 ## Output Result 2
 
-![Output2](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/blob/main/output2.png)
+![Output2](https://chatgpt.com/backend-api/estuary/content?id=file_00000000621471fabaa634289d78c9f1&ts=492641&p=fs&cid=1&sig=b5d2f27459465cd840a5b76393acf32ec5c96a40d4022b73403f25b5064c67ff&v=0)
 
 ---
 
